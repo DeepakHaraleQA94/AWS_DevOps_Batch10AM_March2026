@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-10T11:04:02 IST" name="Suite" finished-at="2026-03-10T11:04:42 IST" duration-ms="39598">
+  <suite started-at="2026-03-12T10:23:13 IST" name="Suite" finished-at="2026-03-12T10:24:22 IST" duration-ms="68397">
     <groups>
     </groups>
-    <test started-at="2026-03-10T11:04:02 IST" name="Test" finished-at="2026-03-10T11:04:42 IST" duration-ms="39598">
+    <test started-at="2026-03-12T10:23:13 IST" name="Test" finished-at="2026-03-12T10:24:22 IST" duration-ms="68397">
       <class name="AutomationWeb.ValidateWebApp">
-        <test-method signature="test()[pri:0, instance:AutomationWeb.ValidateWebApp@2f112965]" started-at="2026-03-10T11:04:02 IST" name="test" finished-at="2026-03-10T11:04:13 IST" duration-ms="10641" status="PASS">
+        <test-method signature="test()[pri:0, instance:AutomationWeb.ValidateWebApp@30ee2816]" started-at="2026-03-12T10:23:14 IST" name="test" finished-at="2026-03-12T10:23:24 IST" duration-ms="10402" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- AutomationWeb.ValidateWebApp -->
       <class name="AutomationWeb.ValidateHomePage">
-        <test-method signature="test()[pri:0, instance:AutomationWeb.ValidateHomePage@56de5251]" started-at="2026-03-10T11:04:13 IST" name="test" finished-at="2026-03-10T11:04:42 IST" duration-ms="28858" status="PASS">
+        <test-method signature="test()[pri:0, instance:AutomationWeb.ValidateHomePage@3f197a46]" started-at="2026-03-12T10:23:24 IST" name="test" finished-at="2026-03-12T10:24:22 IST" duration-ms="57916" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
